@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://himalayatrekkingnepal.github.io/ultimate-guide-to-himalayan-trekking/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
